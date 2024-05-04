@@ -492,6 +492,9 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+.form-footer-container {
+  margin-left: 80px;
+}
 .footer-form {
   display: flex;
   gap: 24px;
